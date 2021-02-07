@@ -17,9 +17,12 @@ body{
 }
 
 .imagen1{
-  width: 90%;
-  height: 90%;
-
+  width: 45%;
+  height: 45%;
+}
+.imagen2{
+  width: 60%
+  bright: 60%
 }
 
 #videos{
@@ -39,7 +42,7 @@ body{
 
 }
 .casa{
-  width: 40%;
-  height: 40%;
+  width: 80%;
+  height: 80%;
   padding: 7% 10%;
 }
